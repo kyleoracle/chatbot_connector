@@ -1,0 +1,14 @@
+[
+  	{
+  		"client": "LINE_IBCS",
+  		"config": {
+  			"botName": "oke",
+  			"channelID": "xxx",
+  			"accessToken": "xxx",
+  			"appSecret": "xxx",
+  			"hashAlgorithm": "sha256",
+  			"msgSharedSecret": "xxx",
+  			"msgReceiverEndUrl": "xxx"
+  		}
+  	}
+]
