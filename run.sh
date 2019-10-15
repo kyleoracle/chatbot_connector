@@ -1,1 +1,1 @@
-nohup node main.js > out.log 2>&1 &
+nohup node kyle_main.js > out.log 2>&1 &
